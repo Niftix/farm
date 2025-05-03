@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 #include <unistd.h>
-
+/*
 void	display(int left, int right);
 void	ft_print_comb2(void);
 
@@ -20,7 +20,7 @@ int	main(void)
 	ft_print_comb2();
 	return 0;
 }
-
+*/
 void	display(int left, int right)
 {
 	char	d1;
